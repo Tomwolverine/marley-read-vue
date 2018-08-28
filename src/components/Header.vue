@@ -1,7 +1,7 @@
 <template>
     <header>
         <img src="../assets/logo-marley-reads.jpeg" alt="logo">
-        <h1>Marley Reads</h1>
+        <h1>Galvanize Reads</h1>
     </header>    
 </template>
 
@@ -21,15 +21,13 @@ header {
 }
 
 header img {
-    grid-row: 1/3;
-    grid-column: 1/2;
-    height: 100px;
-    width: auto;
+    display: flex;
+    
 }
 
 header h1 {
-    grid-row: 1/2;
-    grid-column: 2/3;
+    display: flex;
+    align-items: center;
     margin: 0;
     color: chocolate;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

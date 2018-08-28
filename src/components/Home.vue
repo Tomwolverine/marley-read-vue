@@ -23,7 +23,7 @@ export default {
 <style>
 .home {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
 }
 </style>
