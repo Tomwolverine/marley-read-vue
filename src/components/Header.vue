@@ -22,15 +22,17 @@ header {
 
 header img {
     display: flex;
+    margin: .5em;
     
 }
 
 header h1 {
     display: flex;
-    align-items: center;
-    margin: 0;
-    color: chocolate;
+    align-content: center;
+    margin: .5em;
+    color: rgb(231, 106, 17);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
 }
 
 </style>
