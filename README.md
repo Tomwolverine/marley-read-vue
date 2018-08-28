@@ -1,4 +1,4 @@
-# marley-read
+# galvanize-read
 
 > A Vue.js project
 
